@@ -1,6 +1,6 @@
 {
   "company": "Ambassador Personnel",
-  "updated": "2026-10-27T15:13:29.163Z",
+  "updated": "2026-10-30T15:31:30.423Z",
   "applyUrl": "https://www.teamambassador.com/Jobs.aspx?q=all",
   "jobs": [
     {
@@ -20,7 +20,7 @@
       "perks": "Weekly pay",
       "exp": "",
       "edu": "high school",
-      "open": 1,
+      "open": "1",
       "post": "",
       "first": 1793114009163,
       "branchPhone": "(678) 765-8198",
@@ -48,7 +48,7 @@
       "perks": "Weekly pay",
       "exp": "",
       "edu": "high school",
-      "open": 1,
+      "open": "1",
       "post": "",
       "first": 1793114009163,
       "branchPhone": "(678) 765-8198",
@@ -56,34 +56,6 @@
         18.5
       ],
       "url": "https://teamambassadorpooler.github.io/suwanee-jobs/jobs/5S25.html",
-      "applyUrl": "https://www.teamambassador.com/Jobs.aspx?q=all",
-      "datePosted": "2026-10-27"
-    },
-    {
-      "code": "5RGR",
-      "branch": "Suwanee",
-      "title": "Sanitation Worker",
-      "city": "Atlanta",
-      "state": "GA",
-      "zip": "30336",
-      "street": "",
-      "pay": "$24.00",
-      "type": "Temporary",
-      "shift": "Shift and hours shared at interview",
-      "about": "Ambassador Personnel is hiring a Sanitation Worker in Atlanta, GA. Pay is $24.00/hr, paid weekly.",
-      "duties": "Clean and sanitize production equipment, floors and work areas\nBreak down and reassemble equipment for cleaning\nUse cleaning chemicals safely and correctly\nFollow food safety and lockout/tagout rules",
-      "reqs": "Able to work in wet, hot or cold conditions\nAble to stand for a full shift and lift up to 50 lbs\nAble to work nights or weekends as needed",
-      "perks": "Weekly pay",
-      "exp": "",
-      "edu": "high school",
-      "open": 1,
-      "post": "",
-      "first": 1793114009163,
-      "branchPhone": "(678) 765-8198",
-      "payRange": [
-        24
-      ],
-      "url": "https://teamambassadorpooler.github.io/suwanee-jobs/jobs/5RGR.html",
       "applyUrl": "https://www.teamambassador.com/Jobs.aspx?q=all",
       "datePosted": "2026-10-27"
     },
@@ -104,7 +76,7 @@
       "perks": "Weekly pay",
       "exp": "",
       "edu": "high school",
-      "open": 1,
+      "open": "1",
       "post": "",
       "first": 1793114009163,
       "branchPhone": "(678) 765-8198",
@@ -112,6 +84,34 @@
         17
       ],
       "url": "https://teamambassadorpooler.github.io/suwanee-jobs/jobs/5HPS.html",
+      "applyUrl": "https://www.teamambassador.com/Jobs.aspx?q=all",
+      "datePosted": "2026-10-27"
+    },
+    {
+      "code": "5RGR",
+      "branch": "Suwanee",
+      "title": "Sanitation Worker",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip": "30336",
+      "street": "",
+      "pay": "$24.00",
+      "type": "Temporary",
+      "shift": "Shift and hours shared at interview",
+      "about": "Ambassador Personnel is hiring a Sanitation Worker in Atlanta, GA. Pay is $24.00/hr, paid weekly.",
+      "duties": "Clean and sanitize production equipment, floors and work areas\nBreak down and reassemble equipment for cleaning\nUse cleaning chemicals safely and correctly\nFollow food safety and lockout/tagout rules",
+      "reqs": "Able to work in wet, hot or cold conditions\nAble to stand for a full shift and lift up to 50 lbs\nAble to work nights or weekends as needed",
+      "perks": "Weekly pay",
+      "exp": "",
+      "edu": "high school",
+      "open": "1",
+      "post": "",
+      "first": 1793114009163,
+      "branchPhone": "(678) 765-8198",
+      "payRange": [
+        24
+      ],
+      "url": "https://teamambassadorpooler.github.io/suwanee-jobs/jobs/5RGR.html",
       "applyUrl": "https://www.teamambassador.com/Jobs.aspx?q=all",
       "datePosted": "2026-10-27"
     }
